@@ -1,0 +1,23 @@
+---
+title: "§ 983c. Omitted"
+identifier: "USC-T25-S983c"
+country: "us"
+rank: "statute"
+publication_date: "2024-06-06"
+last_updated: "2024-06-06"
+status: "in_force"
+source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section983c"
+department: "United States Congress"
+positive_law: "no"
+release_point: "Online@118-158"
+title_number: "25"
+---
+# § 983c. Omitted
+
+##### § 983c. Omitted
+
+#### **Editorial Notes**
+
+#### Codification
+
+Section, [Pub. L. 101–484, § 5](/us/pl/101/484/s5), Oct. 31, 1990, [104 Stat. 1168](/us/stat/104/1168); [Pub. L. 104–109, § 12](/us/pl/104/109/s12), Feb. 12, 1996, [110 Stat. 765](/us/stat/110/765), which related to eligibility of the tribe and its members for Federal services and benefits, was omitted from the Code as being of special and not general application.
