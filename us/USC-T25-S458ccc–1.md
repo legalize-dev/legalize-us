@@ -1,0 +1,23 @@
+---
+title: "§ 458ccc–1. Transferred"
+identifier: "USC-T25-S458ccc–1"
+country: "us"
+rank: "statute"
+publication_date: "2024-06-06"
+last_updated: "2024-06-06"
+status: "in_force"
+source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section458ccc–1"
+department: "United States Congress"
+positive_law: "no"
+release_point: "Online@118-158"
+title_number: "25"
+---
+# § 458ccc–1. Transferred
+
+##### § 458ccc–1. Transferred
+
+#### **Editorial Notes**
+
+#### Codification
+
+Section 458ccc–1 was editorially reclassified as [section 5412 of this title](/us/usc/t25/s5412).
