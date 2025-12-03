@@ -1,0 +1,34 @@
+---
+title: "§ 1379a. Legislative findings"
+identifier: "USC-T7-S1379a"
+country: "us"
+rank: "statute"
+publication_date: "2025-12-03"
+last_updated: "2025-12-03"
+status: "in_force"
+source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1379a"
+department: "United States Congress"
+positive_law: "no"
+release_point: "Online@119-73"
+title_number: "7"
+source_credit: "([Feb. 16, 1938, ch. 30](/us/act/1938-02-16/ch30), title III, § 379a, as added [Pub. L. 87–703, title III, § 324(2)](/us/pl/87/703/tIII/s324/2), Sept. 27, 1962, [76 Stat. 626](/us/stat/76/626).)"
+---
+# § 1379a. Legislative findings
+
+##### § 1379a. Legislative findings
+
+Wheat, in addition to being a basic food, is one of the great export crops of American agriculture and its production for domestic consumption and for export is necessary to the maintenance of a sound national economy and to the general welfare. The movement of wheat from producer to consumer, in the form of the commodity or any of the products thereof, is preponderantly in interstate and foreign commerce. Unreasonably low prices of wheat to producers impair their purchasing power for nonagriculture products and place them in a position of serious disparity with other industrial groups. The conditions affecting the production of wheat are such that without Federal assistance, producers cannot effectively prevent disastrously low prices for wheat. It is necessary, in order to assist wheat producers in obtaining fair prices, to regulate the price of wheat used for domestic food and for exports in the manner provided in this part.
+
+*([Feb. 16, 1938, ch. 30](/us/act/1938-02-16/ch30), title III, § 379a, as added [Pub. L. 87–703, title III, § 324(2)](/us/pl/87/703/tIII/s324/2), Sept. 27, 1962, [76 Stat. 626](/us/stat/76/626).)*
+
+#### **Statutory Notes and Related Subsidiaries**
+
+#### Inapplicability of Section
+
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see [section 9092(a)(3) of this title](/us/usc/t7/s9092/a/3).
+
+Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see [section 8782(a)(3) of this title](/us/usc/t7/s8782/a/3).
+
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see [section 7992(a)(3) of this title](/us/usc/t7/s7992/a/3).
+
+Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see [section 7301(a)(1)(H) of this title](/us/usc/t7/s7301/a/1/H).
