@@ -1,0 +1,22 @@
+---
+title: "§ 103. Enacting or resolving words after first section"
+identifier: "USC-T1-S103"
+country: "us"
+rank: "statute"
+publication_date: "2026-03-26"
+last_updated: "2026-03-26"
+status: "in_force"
+source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section103"
+department: "United States Congress"
+positive_law: "yes"
+release_point: "Online@119-73"
+title_number: "1"
+source_credit: "([July 30, 1947, ch. 388](/us/act/1947-07-30/ch388), [61 Stat. 634](/us/stat/61/634).)"
+---
+# § 103. Enacting or resolving words after first section
+
+##### § 103. Enacting or resolving words after first section
+
+No enacting or resolving words shall be used in any section of an Act or resolution of Congress except in the first.
+
+*([July 30, 1947, ch. 388](/us/act/1947-07-30/ch388), [61 Stat. 634](/us/stat/61/634).)*
